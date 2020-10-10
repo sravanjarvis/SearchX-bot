@@ -17,6 +17,7 @@
   "website": "https://github.com/sravanjarvis/SearchX-bot",
 
     },
+    "env": {
 
     "APP_ID": {
 
