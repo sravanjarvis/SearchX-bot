@@ -2,7 +2,7 @@
 
   "name": "Google Drive Search",
 
-  "description": "A Telegram Bot which search your Google Driv",
+  "description": "A Telegram Bot which search your Google Drive",
 
   "keywords": [
 
@@ -33,3 +33,8 @@
       "value": ""
 
     },
+    "API_HASH": {
+
+      "description": "Get this value from https://my.telegram.org",
+
+      "value": ""
