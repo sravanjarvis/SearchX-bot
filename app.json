@@ -1,7 +1,0 @@
-{
-  "name": "UploaditRoBot",
-  "description": "Telegram Bot for Searching Files in Team drive",
-  "repository": "https://github.com/sravanjarvis/SearchX-bot",
-  "logo": "http://icons.iconarchive.com/icons/graphicloads/100-flat/256/upload-icon.png",
-  "keywords": ["telegram", "Team Drive", "Search", "Gdrive"]
-}
